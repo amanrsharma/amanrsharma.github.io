@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: `PhD research scholar at IIT Delhi`
+subtitle: PhD research scholar at IIT Delhi.
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
