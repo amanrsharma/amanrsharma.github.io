@@ -4,7 +4,7 @@ cv:
   email: aman.sharma@civil.iitd.ac.in
   location: IIT Delhi, India
   image: ""
-  summary: A research scholar with an interest in large-scale optimization under uncertainty, public transit, emerging mobility systems, and reliable transportation system designs
+  summary: A research scholar with an interest in large-scale optimization under uncertainty, public transit, emerging mobility systems, and reliable transportation system designs.
 
   social_networks:
     # - network: X
@@ -23,94 +23,103 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Indian Institute of Technology (IIT) Delhi
+        location: New Delhi, India
+        url: https://home.iitd.ac.in/
+        # area: Physics
+        studyType: PhD (Civil Engineering)
+        start_date: 2020
+        end_date: Present
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: "Thesis title: Reliable electric bus system design considering energy supply uncertainties."
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: National Institute of Technology (NIT) Hamirpur
+        location: Himachal Pradesh, India
+        # area: Physics
+        studyType: M.Tech (Transportation Systems Engineering)
+        start_date: 2018
+        end_date: 2020
+        courses: "Thesis title: Optimal generation of fast transit corridors in a city."
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+      - institution: Govind Ballabh Pant Institute of Engineering & Technology
+        location: Uttarakhand, India
+        # area: Physics
+        studyType: B.Tech (Civil Engineering)
+        start_date: 2013
+        end_date: 2017
+    # Experience:
+    #   - company: Institute for Advanced Study, Princeton University
+    #     position: Professor of Theoretical Physics
+    #     location: Princeton University, NJ
+    #     start_date: 1933
+    #     end_date: 1955
+    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+    #     highlights:
+    #       - Relativity
+    #       - Description 2.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+    #   - company: California Institute of Technology
+    #     position: Visiting Professor
+    #     location: Pasadena, California, US
+    #     start_date: 1933
+    #     end_date: 1933
+    #     highlights:
+    #       - Description 1.
+    #       - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    #   - company: Kaiser Wilhelm Institute for Physics
+    #     position: Director
+    #     location: Berlin, Germany
+    #     start_date: 1917
+    #     end_date: 1933
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    #   - company: Karl-Ferdinand University
+    #     position: Professor of Theoretical Physics
+    #     location: Prague, Czechoslovakia
+    #     start_date: 1911
+    #     end_date: 1917
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+    #   - company: University of Zurich
+    #     position: Associate Professor of Theoretical Physics
+    #     location: Zurich, Switzerland
+    #     start_date: 1909
+    #     end_date: 1911
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Full-time institute assistanship (PhD)
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
+          - "IIT Delhi "
+        date: "2020-2025"
+      - title: Research excellence travel award
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "IIT Delhi "
+        date: 2023
+      - title: TRIP Centre assistantship
+        authors:
+          - "Ministry of Urban Development"
+        date: 2022
+      - title: AICTE post graduate scholarship 
+        authors:
+          - "All India Council for Technical Education (AICTE)"
+        date: 2018-2020
 
+      # - title: Max Planpost-graduate
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
