@@ -164,33 +164,33 @@ cv:
         summary: SERB, Department of Science and Technology, Government of India.
         highlights:
           - Research Associate
-        start_date: 2024
-        end_date: 2027
+        start_date: "2024"
+        end_date: "2027"
       - name: Catenary Based In-Motion Charging Mechanism for Electric Buses.
         summary: Bureau of Energy Efficiency, Ministry of Power, Government of India.
         highlights:
           - Research Associate
-        start_date: 2023
-        end_date: 2024
+        start_date: "2023"
+        end_date: "2024"
       - name: Electric Bus Operation and Performance Data Collection and Analysis. 
         summary: SG Architects, New Delhi.
         highlights:
           - Research Associate
-        start_date: 2022
-        end_date: 2022
+        start_date: "2022"
+        end_date: "2022"
 
     References:
-      - name: "Prof. Nezamuddin"
+      - name: Prof. Nezamuddi
         # icon: fa-solid fa-laptop
         reference: "Associate Professor, Department of Civil and Environmental Engineering, Indian Institute of Technology (IIT) Delhi."
         # email: "nezam[at]civil.iitd.ac.in"
         
-      - name: "Prof. Pramesh Kumar"
+      - name: Prof. Pramesh Kumar
         # icon: fa-solid fa-laptop
         reference: "Assistant Professor, Department of Civil and Environmental Engineering, Indian Institute of Technology (IIT) Delhi."
         # email: "pkk[at]civil.iitd.ac.in"
         
-      - name: "Dr Pranav Gairola"
+      - name: Dr Pranav Gairola
               # icon: fa-solid fa-laptop
         reference: "CRF (Centre Research Fellow), Brij Disa centre for Data Science and Artificial Intelligence (CDSA), Indian Institute of Management (IIM) Ahmedabad.
         # email: "pranavg[at]iima.ac.in"
