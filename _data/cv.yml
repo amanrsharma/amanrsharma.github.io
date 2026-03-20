@@ -125,10 +125,10 @@ cv:
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: 
+      - name: "GAMS; GeoPandas; GIS; Gurobi; \LaTeX; Linux; Python; R; SQL."
         level: 
         icon: 
-        keywords: "GAMS; GeoPandas; GIS; Gurobi; \LaTeX; Linux; Python; R; SQL."
+        keywords: 
 
     Languages:
       - name: English
@@ -139,9 +139,9 @@ cv:
 
 
     Interests:
-      - name: 
+      - name: "Large-scale optimization; Public transport; Optimization under uncertainties; Reliable transport system design; Emerging mobility systems; Sequential decision making."
         icon: 
-        keywords: "Large-scale optimization; Public transport; Optimization under uncertainties; Reliable transport system design; Emerging mobility systems; Sequential decision making."
+        keywords: 
 
     Certificates:
       - name: Summer School on Large Scale Optimization
@@ -160,19 +160,46 @@ cv:
         # icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Bus Electrification and Scheduling Framework Under Operational Perturbations.
+        summary: SERB, Department of Science and Technology, Government of India.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Research Associate
+        start_date: 2024
+        end_date: 2027
+      - name: Catenary Based In-Motion Charging Mechanism for Electric Buses.
+        summary: Bureau of Energy Efficiency, Ministry of Power, Government of India.
+        highlights:
+          - Research Associate
+        start_date: 2023
+        end_date: 2024
+      - name: Electric Bus Operation and Performance Data Collection and Analysis. 
+        summary: SG Architects, New Delhi.
+        highlights:
+          - Research Associate
+        start_date: 2022
+        end_date: 2022
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Nezamuddin
+        # icon: fa-solid fa-laptop
+        reference: Associate Professor,
+                    Department of Civil and Environmental Engineering,
+                    Indian Institute of Technology (IIT) Delhi,
+                    New Delhi -110016, India
+                    Email- nezam[at]civil.iitd.ac.in
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Pramesh Kumar
+        # icon: fa-solid fa-laptop
+        reference: Assistant Professor,
+                    Department of Civil and Environmental Engineering,
+                    Indian Institute of Technology (IIT) Delhi,
+                    New Delhi -110016, India
+                    Email- pkk[at]civil.iitd.ac.in
+      
+      - name: Dr Pranav Gairola
+              # icon: fa-solid fa-laptop
+              reference: CRF (Centre Research Fellow),
+                          Brij Disa centre for Data Science and Artificial Intelligence (CDSA),
+                          Indian Institute of Management (IIM) Ahmedabad,
+                          Vastrapur, Ahmedabad-380015, Gujarat, India
+                          Email- pranavg[at]iima.ac.in
