@@ -28,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am presently working as a PhD research scholar at the Department of Civil and Environmental Engineering with [Prof. Nezamuddin](https://web.iitd.ac.in/~nezam/). 
+I am presently working as a PhD research scholar at the Department of Civil and Environmental Engineering, IIT Delhi, with [Prof. Nezamuddin](https://web.iitd.ac.in/~nezam/). Before this, I did my M.Tech at the Department of Civil Engineering, NIT Hamirpur, with [Prof. Raman Parti](https://portfolios.nith.ac.in/index.php?/nith/dr-raman-parti598).
 
 I like working on real-world transportation systems, aiming to create reliable, resilient systems that operate effectively under uncertainty and disruptions. My PhD work focuses on developing reliable Electric Bus systems under energy supply uncertainties using operations research.
 
 My research interests include planning and optimizing large-scale transportation systems and their operations, integrating clean energy, sequential decision-making, and addressing uncertainties to ensure resilient, reliable operations using operations research techniques.
 
-Apart from procrastinating in the lab, I can be found playing video games, tinkering with Android and Linux, and watching TV shows and a few sports.
+Apart from procrastinating in the lab, I can be found playing video games, tinkering with Android and Linux, blasting rock and metal music, and watching TV shows and a few sports.
