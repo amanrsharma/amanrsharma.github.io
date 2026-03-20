@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: Indian Institute of Technology (IIT) Delhi
-        location: New Delhi, India
+        location: India
         url: https://home.iitd.ac.in/
         # area: Physics
         studyType: PhD (Civil Engineering)
@@ -37,9 +37,7 @@ cv:
         #   - Description 2.
 
       - institution: National Institute of Technology (NIT) Hamirpur
-        location: Himachal Pradesh,
-        
-        India
+        location: India
         url: https://nith.ac.in/
         # area: Physics
         studyType: M.Tech (Transportation Systems Engineering)
@@ -49,8 +47,8 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
-      - institution: Govind Ballabh Pant Institute of Engineering & Technology
-        location: Uttarakhand, India
+      - institution: Govind Ballabh Pant Institute of Engineering & Technology, Pauri Garhwal
+        location: India
         url: https://gbpiet.ac.in/
         # area: Physics
         studyType: B.Tech (Civil Engineering)
