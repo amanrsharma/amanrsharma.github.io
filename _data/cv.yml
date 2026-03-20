@@ -182,24 +182,24 @@ cv:
     References:
       - name: Professor Nezamuddin
         # icon: fa-solid fa-laptop
-        reference: Associate Professor,
-                    Department of Civil and Environmental Engineering,
-                    Indian Institute of Technology (IIT) Delhi,
-                    New Delhi -110016, India
-                    Email- nezam[at]civil.iitd.ac.in
+        reference: "Associate Professor,"
+                    "Department of Civil and Environmental Engineering,"
+                    "Indian Institute of Technology (IIT) Delhi,"
+                    "New Delhi -110016, India"
+                    "Email- nezam[at]civil.iitd.ac.in"
 
       - name: Professor Pramesh Kumar
         # icon: fa-solid fa-laptop
-        reference: Assistant Professor,
-                    Department of Civil and Environmental Engineering,
-                    Indian Institute of Technology (IIT) Delhi,
-                    New Delhi -110016, India
-                    Email- pkk[at]civil.iitd.ac.in
+        reference: "Assistant Professor,
+                    "Department of Civil and Environmental Engineering,"
+                    "Indian Institute of Technology (IIT) Delhi,"
+                    "New Delhi -110016, India"
+                    "Email- pkk[at]civil.iitd.ac.in"
       
       - name: Dr Pranav Gairola
               # icon: fa-solid fa-laptop
-              reference: CRF (Centre Research Fellow),
-                          Brij Disa centre for Data Science and Artificial Intelligence (CDSA),
-                          Indian Institute of Management (IIM) Ahmedabad,
-                          Vastrapur, Ahmedabad-380015, Gujarat, India
-                          Email- pranavg[at]iima.ac.in
+              reference: "CRF (Centre Research Fellow),"
+                          "Brij Disa centre for Data Science and Artificial Intelligence (CDSA),"
+                          "Indian Institute of Management (IIM) Ahmedabad,"
+                          "Vastrapur, Ahmedabad-380015, Gujarat, India"
+                          "Email- pranavg[at]iima.ac.in"
