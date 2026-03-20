@@ -145,17 +145,17 @@ cv:
 
     Certificates:
       - name: Summer School on Large Scale Optimization
-        date: 'April 2023'
+        date: "April 2023"
         issuer: Indian Institute of Technology Kanpur
         # icon: fa-solid fa-location-dot
 
       - name: E-bus System Planning and Optimization
-        date: 'August 2021'
+        date: "August 2021"
         issuer: pManifold EV Academy
         # icon: fa-solid fa-tag
 
       - name: Linear and Network Optimization
-        date: 'September 2020'
+        date: "September 2020"
         issuer: Indian Institute of Science Bengaluru
         # icon: fa-solid fa-envelope
 
