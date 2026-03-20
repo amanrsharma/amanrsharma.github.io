@@ -37,7 +37,10 @@ cv:
         #   - Description 2.
 
       - institution: National Institute of Technology (NIT) Hamirpur
-        location: Himachal Pradesh, India
+        location: Himachal Pradesh,
+        
+        India
+        url: https://nith.ac.in/
         # area: Physics
         studyType: M.Tech (Transportation Systems Engineering)
         start_date: 2018
@@ -48,6 +51,7 @@ cv:
         #   - Description 2.
       - institution: Govind Ballabh Pant Institute of Engineering & Technology
         location: Uttarakhand, India
+        url: https://gbpiet.ac.in/
         # area: Physics
         studyType: B.Tech (Civil Engineering)
         start_date: 2013
@@ -63,33 +67,6 @@ cv:
     #       - Relativity
     #       - Description 2.
 
-    #   - company: California Institute of Technology
-    #     position: Visiting Professor
-    #     location: Pasadena, California, US
-    #     start_date: 1933
-    #     end_date: 1933
-    #     highlights:
-    #       - Description 1.
-    #       - Description 2.
-
-    #   - company: Kaiser Wilhelm Institute for Physics
-    #     position: Director
-    #     location: Berlin, Germany
-    #     start_date: 1917
-    #     end_date: 1933
-
-    #   - company: Karl-Ferdinand University
-    #     position: Professor of Theoretical Physics
-    #     location: Prague, Czechoslovakia
-    #     start_date: 1911
-    #     end_date: 1917
-
-    #   - company: University of Zurich
-    #     position: Associate Professor of Theoretical Physics
-    #     location: Zurich, Switzerland
-    #     start_date: 1909
-    #     end_date: 1911
-
     # Volunteer:
     #   - company: People's Climate March
     #     position: Lead Organizer
@@ -102,21 +79,25 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Full-time institute assistanship (PhD)
+      - title: Full-time institute assistantship (PhD)
         authors:
           - "IIT Delhi "
+        awarder: IIT Delhi
         date: "2020-2025"
       - title: Research excellence travel award
         authors:
           - "IIT Delhi "
+        awarder: IIT Delhi
         date: 2023
       - title: TRIP Centre assistantship
         authors:
           - "Ministry of Urban Development"
+        awarder: Ministry of Urban Development
         date: 2022
-      - title: AICTE post graduate scholarship 
+      - title: AICTE post-graduate scholarship 
         authors:
           - "All India Council for Technical Education (AICTE)"
+        awarder: All India Council for Technical Education (AICTE)
         date: 2018-2020
 
       # - title: Max Planpost-graduate
