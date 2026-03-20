@@ -126,9 +126,9 @@ cv:
 
     Skills:
       - name: "GAMS; GeoPandas; GIS; Gurobi; \LaTeX; Linux; Python; R; SQL."
-        level: 
-        icon: 
-        keywords: 
+        # level: 
+        # icon: 
+        # keywords: 
 
     Languages:
       - name: English
@@ -140,8 +140,8 @@ cv:
 
     Interests:
       - name: "Large-scale optimization; Public transport; Optimization under uncertainties; Reliable transport system design; Emerging mobility systems; Sequential decision making."
-        icon: 
-        keywords: 
+        # icon: 
+        # keywords: 
 
     Certificates:
       - name: Summer School on Large Scale Optimization
